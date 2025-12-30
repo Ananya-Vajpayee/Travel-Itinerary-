@@ -1,5 +1,5 @@
 ## 📖 Project Summary
-Voyager Elite is a world-class, AI-driven travel orchestration system designed to transform vague travel desires into professional-grade, high-fidelity itineraries. Moving beyond simple list generation, Voyager Elite acts as a digital travel concierge, leveraging the advanced reasoning of AI to synthesize real-time market data, cultural nuances, and logistical complexities into a single, cohesive "Expedition Dossier."
+Voyager Elite is a world-class, AI-driven travel orchestration system designed to transform vague travel desires into professional-grade, high-fidelity itineraries. Moving beyond simple list generation, Voyager Elite acts as a digital travel concierge, leveraging the advanced reasoning of AI to synthesize real-time market data, cultural nuances, and logistical complexities into a single, cohesive "Expedition Planner."
 
 ## 🌟 The Core Vision
 The platform is built for the modern traveler who demands more than just a schedule. It bridges the gap between automated planning and premium human curation by focusing on:
