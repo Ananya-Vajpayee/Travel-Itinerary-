@@ -7,7 +7,7 @@ const steps = [
   "Analyzing premium hotel partnerships...",
   "Curating high-end culinary experiences...",
   "Mapping cultural heritage landmarks...",
-  "Preparing your professional itinerary..."
+  "Preparing your personalised professional itinerary..."
 ];
 
 const floatingIcons = ["✈️", "🏨", "🚆", "🛂", "📸", "🍛", "🏝️", "🏙️"];
